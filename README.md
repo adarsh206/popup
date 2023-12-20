@@ -1,7 +1,7 @@
 # popup
 Created a simple popup app with the help of HTMl, CSS &amp; Javascript.
 
-#Description:
+# Description:
 
 1. Simple popup app which shows popup message on clicking the submit button present on the page.
 2. then again you can click on OK button to go off.
